@@ -1,6 +1,7 @@
 # ОПИСАНИЕ
 
-
+* Small report preview via nbviever: [link](https://nbviewer.jupyter.org/github/Witold1/patent_analysis/blob/master/notebooks/report_descriptive.ipynb)
+* Same, but bit interactive report preview via htmlpreview: [link](https://htmlpreview.github.io/?https://github.com/Witold1/patent_analysis/blob/master/reports/report_descriptive-interactive.html)
 
 ## СТРУКТУРА
 
