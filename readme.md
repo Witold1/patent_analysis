@@ -20,6 +20,8 @@
 ├── notebooks                   <- Folder for notebook of Часть 2.  
 │   └── preprocessing_and_report_preporation.ipynb  
 │   └── report_descriptive.ipynb 
+│   └── report_descriptive-interactive.ipynb
+│   └── visualisation.ipynb
 │  
 ├── reports 
 │   └── figures
